@@ -1,4 +1,4 @@
-# From Requirements to Runtime: Evaluating Large Language Models as Strategic Assistants for Agile Product Owners
+# Evaluating Large Language Models as Strategic Assistants for Agile Product Owners
 
 In this organization github users can found and reproduce ...
 
