@@ -4,10 +4,14 @@ In this organization github users can found and reproduce the
 
 
 ## Proposed Methodology
-
-- Phase 1: Contextual Comprehension and Requirement Extraction.
-- Phase 2: Strategic Prioritization and Agile Alignment.
-
+- Static evaluation :
+  - Phase 1: Contextual Comprehension and Requirement Extraction.
+  - Phase 2: Strategic Prioritization and Agile Alignment.
+  - Phase 3: Phase 3: Architectural Viability and Implementation Assessment.
+  - Phase 4: Code Quality, Security, and Technical Debt Inspection.
+  - Phase 5: Consultative Maturity and Stakeholder Mediation.
+- Dynamic Prototype Evaluation Protocol.
+  
 ## PROMTS
 
 - PROMPT 0:  Analyze the following base documents: the requirements specification and the technology stack in the form of a Dockerfile and a Docker-Compose.yml file.
