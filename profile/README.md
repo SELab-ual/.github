@@ -39,7 +39,7 @@ XXX
 
 
 - [RMOS - Restaurant Menu and Ordering System](https://github.com/SELab-ual/RMOS-Restaurant-Menu-and-Ordering-System)
-- [ALI -  Amazing Lunch Indicator]() 
+- [ALI -  Amazing Lunch Indicator](https://github.com/SELab-ual/ALI-Amazing-Lunch-Indicator-System) 
 - [Ecommerce - Online Bookstore]() 
 - [Camp - Summer Camp]()
 
