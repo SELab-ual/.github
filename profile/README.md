@@ -25,7 +25,7 @@ In this organization github users can found and reproduce the
 
 ## Replication repositories
 
-Each case study XXX has this folders distribution:
+Each case study XXX is an instance of this folder distribution:
 ```
 XXX
 ├── 01.Inputs      # SRS and architecture given as input for the experiment
