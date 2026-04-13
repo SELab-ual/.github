@@ -13,7 +13,7 @@ In this organization github users can found and reproduce the
 
 ## Replication repositories
 
-- (RMOS - Restaurant Menu and Ordering System)[https://github.com/SELab-ual/RMOS]
+- [RMOS - Restaurant Menu and Ordering System](https://github.com/SELab-ual/RMOS)
 - ALI -  Amazing Lunch Indicator 
 - Ecommerce - Online Bookstore 
 - Camp - Summer Camp
